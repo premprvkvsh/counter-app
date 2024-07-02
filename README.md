@@ -6,5 +6,8 @@ It consist of two files - one index.html which uses DOM maipulation to implement
 
 When we click the button then it increases the count by 1.
 
-<img src="https://imgur.com/a/YxVOV7G" style="max-width: 100px; width: 100%; height: auto;">
+
+### Screenshots
+
+<img src="https://imgur.com/dhhvrhh" style="max-width: 100px; width: 100%; height: auto;">
 <img src="https://imgur.com/1yM1fQv" style="max-width: 100px;width: 100%; height: auto;">
